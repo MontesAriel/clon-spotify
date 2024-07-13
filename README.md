@@ -10,7 +10,7 @@ Una cuenta de desarrollador de Spotify y una aplicación de Spotify registrada p
 Clona el repositorio en tu máquina local.
 
 
-git clone https://github.com/tu-usuario/spotify-clone.git
+git clone https://github.com/tu-usuario/clone-spotify.git
 cd spotify-clone
 Instala las dependencias del proyecto.
 
